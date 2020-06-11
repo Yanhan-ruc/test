@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bullet.png</file>
+        <file>images/button.png</file>
+        <file>images/buttonCover.png</file>
+        <file>images/head.png</file>
+        <file>images/apple.png</file>
+        <file>images/dot.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/hdl.mp3</file>
+    </qresource>
+</RCC>
